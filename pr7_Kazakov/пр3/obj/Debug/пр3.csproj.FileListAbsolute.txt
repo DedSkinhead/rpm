@@ -1,0 +1,113 @@
+Z:\РПМ\пр3\пр3\bin\Debug\пр3.exe.config
+Z:\РПМ\пр3\пр3\bin\Debug\пр3.exe
+Z:\РПМ\пр3\пр3\bin\Debug\пр3.pdb
+Z:\РПМ\пр3\пр3\obj\Debug\пр3.csprojResolveAssemblyReference.cache
+Z:\РПМ\пр3\пр3\obj\Debug\пр3.Form1.resources
+Z:\РПМ\пр3\пр3\obj\Debug\пр3.Properties.Resources.resources
+Z:\РПМ\пр3\пр3\obj\Debug\пр3.csproj.GenerateResource.Cache
+Z:\РПМ\пр3\пр3\obj\Debug\пр3.exe
+Z:\РПМ\пр3\пр3\obj\Debug\пр3.pdb
+Z:\РПМ\пр4\пр3\obj\Debug\пр3.csprojResolveAssemblyReference.cache
+Z:\РПМ\пр4\пр3\obj\Debug\пр3.Form1.resources
+Z:\РПМ\пр4\пр3\obj\Debug\пр3.Form4.resources
+Z:\РПМ\пр4\пр3\obj\Debug\пр3.ima.resources
+Z:\РПМ\пр4\пр3\obj\Debug\пр3.Properties.Resources.resources
+Z:\РПМ\пр4\пр3\obj\Debug\пр3.registra.resources
+Z:\РПМ\пр4\пр3\obj\Debug\пр3.потеря.resources
+Z:\РПМ\пр4\пр3\obj\Debug\пр3.регистрация.resources
+Z:\РПМ\пр4\пр3\obj\Debug\пр3.csproj.GenerateResource.Cache
+Z:\РПМ\пр4\пр3\obj\Debug\пр3.exe
+Z:\РПМ\пр4\пр3\obj\Debug\пр3.pdb
+Z:\РПМ\пр4\пр3\bin\Debug\пр3.exe.config
+Z:\РПМ\пр4\пр3\bin\Debug\пр3.exe
+Z:\РПМ\пр4\пр3\bin\Debug\пр3.pdb
+G:\пр4 Аня\пр3\bin\Debug\пр3.exe.config
+G:\пр4 Аня\пр3\bin\Debug\пр3.exe
+G:\пр4 Аня\пр3\bin\Debug\пр3.pdb
+G:\пр4 Аня\пр3\obj\Debug\пр3.csproj.AssemblyReference.cache
+G:\пр4 Аня\пр3\obj\Debug\пр3.csproj.SuggestedBindingRedirects.cache
+G:\пр4 Аня\пр3\obj\Debug\пр3.Form1.resources
+G:\пр4 Аня\пр3\obj\Debug\пр3.Form4.resources
+G:\пр4 Аня\пр3\obj\Debug\пр3.ima.resources
+G:\пр4 Аня\пр3\obj\Debug\пр3.Properties.Resources.resources
+G:\пр4 Аня\пр3\obj\Debug\пр3.registra.resources
+G:\пр4 Аня\пр3\obj\Debug\пр3.потеря.resources
+G:\пр4 Аня\пр3\obj\Debug\пр3.регистрация.resources
+G:\пр4 Аня\пр3\obj\Debug\пр3.csproj.GenerateResource.cache
+G:\пр4 Аня\пр3\obj\Debug\пр3.csproj.CoreCompileInputs.cache
+G:\пр4 Аня\пр3\obj\Debug\пр3.exe
+G:\пр4 Аня\пр3\obj\Debug\пр3.pdb
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\bin\Debug\пр3.exe.config
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\bin\Debug\пр3.exe
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\bin\Debug\пр3.pdb
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\obj\Debug\пр3.csproj.AssemblyReference.cache
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\obj\Debug\пр3.ima.resources
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\obj\Debug\пр3.Properties.Resources.resources
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\obj\Debug\пр3.registra.resources
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\obj\Debug\пр3.csproj.GenerateResource.cache
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\obj\Debug\пр3.csproj.CoreCompileInputs.cache
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\obj\Debug\пр3.exe
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\obj\Debug\пр3.pdb
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\obj\Debug\пр3.ykaz1.resources
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\obj\Debug\пр3.yveren.resources
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\obj\Debug\пр3.vixod.resources
+C:\Users\abudu\OneDrive\Рабочий стол\пр4 Аня\пр4 Аня\пр3\obj\Debug\пр3.glavnoe.resources
+Z:\РПМ_Казаков\pr5_Kazakov\пр3\bin\Debug\пр3.exe.config
+Z:\РПМ_Казаков\pr5_Kazakov\пр3\bin\Debug\пр3.exe
+Z:\РПМ_Казаков\pr5_Kazakov\пр3\bin\Debug\пр3.pdb
+Z:\РПМ_Казаков\pr5_Kazakov\пр3\obj\Debug\пр3.csprojResolveAssemblyReference.cache
+Z:\РПМ_Казаков\pr5_Kazakov\пр3\obj\Debug\пр3.glavnoe.resources
+Z:\РПМ_Казаков\pr5_Kazakov\пр3\obj\Debug\пр3.vixod.resources
+Z:\РПМ_Казаков\pr5_Kazakov\пр3\obj\Debug\пр3.yveren.resources
+Z:\РПМ_Казаков\pr5_Kazakov\пр3\obj\Debug\пр3.ykaz1.resources
+Z:\РПМ_Казаков\pr5_Kazakov\пр3\obj\Debug\пр3.ima.resources
+Z:\РПМ_Казаков\pr5_Kazakov\пр3\obj\Debug\пр3.Properties.Resources.resources
+Z:\РПМ_Казаков\pr5_Kazakov\пр3\obj\Debug\пр3.registra.resources
+Z:\РПМ_Казаков\pr5_Kazakov\пр3\obj\Debug\пр3.csproj.GenerateResource.Cache
+Z:\РПМ_Казаков\pr5_Kazakov\пр3\obj\Debug\пр3.exe
+Z:\РПМ_Казаков\pr5_Kazakov\пр3\obj\Debug\пр3.pdb
+Z:\РПМ_Казаков\pr6_Kazakov\пр3\bin\Debug\пр3.exe.config
+Z:\РПМ_Казаков\pr6_Kazakov\пр3\bin\Debug\пр3.exe
+Z:\РПМ_Казаков\pr6_Kazakov\пр3\bin\Debug\пр3.pdb
+Z:\РПМ_Казаков\pr6_Kazakov\пр3\obj\Debug\пр3.csprojResolveAssemblyReference.cache
+Z:\РПМ_Казаков\pr6_Kazakov\пр3\obj\Debug\пр3.glavnoe.resources
+Z:\РПМ_Казаков\pr6_Kazakov\пр3\obj\Debug\пр3.vixod.resources
+Z:\РПМ_Казаков\pr6_Kazakov\пр3\obj\Debug\пр3.yveren.resources
+Z:\РПМ_Казаков\pr6_Kazakov\пр3\obj\Debug\пр3.ykaz1.resources
+Z:\РПМ_Казаков\pr6_Kazakov\пр3\obj\Debug\пр3.ima.resources
+Z:\РПМ_Казаков\pr6_Kazakov\пр3\obj\Debug\пр3.Properties.Resources.resources
+Z:\РПМ_Казаков\pr6_Kazakov\пр3\obj\Debug\пр3.registra.resources
+Z:\РПМ_Казаков\pr6_Kazakov\пр3\obj\Debug\пр3.csproj.GenerateResource.Cache
+Z:\РПМ_Казаков\pr6_Kazakov\пр3\obj\Debug\пр3.exe
+Z:\РПМ_Казаков\pr6_Kazakov\пр3\obj\Debug\пр3.pdb
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\bin\Debug\пр3.exe.config
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\bin\Debug\пр3.exe
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\bin\Debug\пр3.pdb
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\obj\Debug\пр3.csprojResolveAssemblyReference.cache
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\obj\Debug\пр3.glavnoe.resources
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\obj\Debug\пр3.vixod.resources
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\obj\Debug\пр3.yveren.resources
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\obj\Debug\пр3.ykaz1.resources
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\obj\Debug\пр3.ima.resources
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\obj\Debug\пр3.Properties.Resources.resources
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\obj\Debug\пр3.registra.resources
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\obj\Debug\пр3.csproj.GenerateResource.Cache
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\obj\Debug\пр3.exe
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\obj\Debug\пр3.pdb
+Z:\РПМ_Казаков\pr7_Kazakov\пр3\obj\Debug\пр3.Diagram.resources
+E:\RPM DuMa\pr7_Kazakov\пр3\bin\Debug\пр3.exe.config
+E:\RPM DuMa\pr7_Kazakov\пр3\bin\Debug\пр3.exe
+E:\RPM DuMa\pr7_Kazakov\пр3\bin\Debug\пр3.pdb
+E:\RPM DuMa\pr7_Kazakov\пр3\obj\Debug\пр3.csprojAssemblyReference.cache
+E:\RPM DuMa\pr7_Kazakov\пр3\obj\Debug\пр3.Diagram.resources
+E:\RPM DuMa\pr7_Kazakov\пр3\obj\Debug\пр3.glavnoe.resources
+E:\RPM DuMa\pr7_Kazakov\пр3\obj\Debug\пр3.vixod.resources
+E:\RPM DuMa\pr7_Kazakov\пр3\obj\Debug\пр3.yveren.resources
+E:\RPM DuMa\pr7_Kazakov\пр3\obj\Debug\пр3.ykaz1.resources
+E:\RPM DuMa\pr7_Kazakov\пр3\obj\Debug\пр3.ima.resources
+E:\RPM DuMa\pr7_Kazakov\пр3\obj\Debug\пр3.Properties.Resources.resources
+E:\RPM DuMa\pr7_Kazakov\пр3\obj\Debug\пр3.registra.resources
+E:\RPM DuMa\pr7_Kazakov\пр3\obj\Debug\пр3.csproj.GenerateResource.cache
+E:\RPM DuMa\pr7_Kazakov\пр3\obj\Debug\пр3.csproj.CoreCompileInputs.cache
+E:\RPM DuMa\pr7_Kazakov\пр3\obj\Debug\пр3.exe
+E:\RPM DuMa\pr7_Kazakov\пр3\obj\Debug\пр3.pdb

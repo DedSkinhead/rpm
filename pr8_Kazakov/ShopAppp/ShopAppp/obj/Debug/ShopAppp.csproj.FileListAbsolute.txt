@@ -1,0 +1,10 @@
+Z:\РПМ_Казаков\pr8_Kazakov\ShopAppp\ShopAppp\bin\Debug\ShopAppp.exe.config
+Z:\РПМ_Казаков\pr8_Kazakov\ShopAppp\ShopAppp\bin\Debug\ShopAppp.exe
+Z:\РПМ_Казаков\pr8_Kazakov\ShopAppp\ShopAppp\bin\Debug\ShopAppp.pdb
+Z:\РПМ_Казаков\pr8_Kazakov\ShopAppp\ShopAppp\obj\Debug\ShopAppp.csprojResolveAssemblyReference.cache
+Z:\РПМ_Казаков\pr8_Kazakov\ShopAppp\ShopAppp\obj\Debug\ShopAppp.Form1.resources
+Z:\РПМ_Казаков\pr8_Kazakov\ShopAppp\ShopAppp\obj\Debug\ShopAppp.Properties.Resources.resources
+Z:\РПМ_Казаков\pr8_Kazakov\ShopAppp\ShopAppp\obj\Debug\ShopAppp.csproj.GenerateResource.Cache
+Z:\РПМ_Казаков\pr8_Kazakov\ShopAppp\ShopAppp\obj\Debug\ShopAppp.exe
+Z:\РПМ_Казаков\pr8_Kazakov\ShopAppp\ShopAppp\obj\Debug\ShopAppp.pdb
+Z:\РПМ_Казаков\pr8_Kazakov\ShopAppp\ShopAppp\bin\Debug\DB_Shop.accdb
